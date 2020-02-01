@@ -50,45 +50,41 @@ It is based on an article written by [Stephen Curtis](https://twitter.com/stephe
 
 ---
 
-<div dir="rtl" lang="ar">
-
 ## جدول المحتويات
 
-١. **[Call Stack](#١-call-stack)**
-٢. **[Primitive Types](#٢-primitive-types)**
-٣. **[Value Types and Reference Types](#٣-value-types-and-reference-types)**
-٤. **[Implicit, Explicit, Nominal, Structuring and Duck Typing](#٤-implicit-explicit-nominal-structuring-and-duck-typing)**
-٥. **[== vs === vs typeof](#٥--vs--vs-typeof)**
-٦. **[Function Scope, Block Scope and Lexical Scope](#٦-function-scope-block-scope-and-lexical-scope)**
-٧. **[Expression vs Statement](#٧-expression-vs-statement)**
-٨. **[IIFE, Modules and Namespaces](#٨-iife-modules-and-namespaces)**
-٩. **[Message Queue and Event Loop](#٩-message-queue-and-event-loop)**
-١٠. **[setTimeout, setInterval and requestAnimationFrame](#١٠-settimeout-setinterval-and-requestanimationframe)**
-١١. **[JavaScript Engines](#١١-javascript-engines)**
-١٢. **[Bitwise Operators, Type Arrays and Array Buffers](#١٢-bitwise-operators-type-arrays-and-array-buffers)**
-١٣. **[DOM and Layout Trees](#١٣-dom-and-layout-trees)**
-١٤. **[Factories and Classes](#١٤-factories-and-classes)**
-١٥. **[this, call, apply and bind](#١٥-this-call-apply-and-bind)**
-١٦. **[new, Constructor, instanceof and Instances](#١٦-new-constructor-instanceof-and-instances)**
-١٧. **[Prototype Inheritance and Prototype Chain](#١٧-prototype-inheritance-and-prototype-chain)**
-١٨. **[Object.create and Object.assign](#١٨-objectcreate-and-objectassign)**
-١٩. **[map, reduce, filter](#١٩-map-reduce-filter)**
-٢٠. **[Pure Functions, Side Effects and State Mutation](#٢٠-pure-functions-side-effects-and-state-mutation)**
-٢١. **[Closures](#٢١-closures)**
-٢٢. **[High Order Functions](#٢٢-high-order-functions)**
-٢٣. **[Recursion](#٢٣-recursion)**
-٢٤. **[Collections and Generators](#٢٤-collections-and-generators)**
-٢٥. **[Promises](#٢٥-promises)**
-٢٦. **[async/await](#٢٦-asyncawait)**
-٢٧. **[Data Structures](#٢٧-data-structures)**
-٢٨. **[Expensive Operation and Big O Notation](#٢٨-expensive-operation-and-big-o-notation)**
-٢٩. **[الخوارزميات](#٢٩-الخوارزميات)**
-٣٠. **[Inheritance, Polymorphism and Code Reuse](#٣٠-inheritance-polymorphism-and-code-reuse)**
-٣١. **[Design Patterns](#٣١-design-patterns)**
-٣٢. **[Partial Applications, Currying, Compose and Pipe](#٣٢-partial-applications-currying-compose-and-pipe)**
-٣٣. **[كتابة كود نظيف](#٣٣-كتابة-كود-نظيف)**
-
-</div>
+1. **[Call Stack](#١-call-stack)**
+2. **[Primitive Types](#٢-primitive-types)**
+3. **[Value Types and Reference Types](#٣-value-types-and-reference-types)**
+4. **[Implicit, Explicit, Nominal, Structuring and Duck Typing](#٤-implicit-explicit-nominal-structuring-and-duck-typing)**
+5. **[== vs === vs typeof](#٥--vs--vs-typeof)**
+6 **[Function Scope, Block Scope and Lexical Scope](#٦-function-scope-block-scope-and-lexical-scope)**
+7. **[Expression vs Statement](#٧-expression-vs-statement)**
+8. **[IIFE, Modules and Namespaces](#٨-iife-modules-and-namespaces)**
+9. **[Message Queue and Event Loop](#٩-message-queue-and-event-loop)**
+10. **[setTimeout, setInterval and requestAnimationFrame](#١٠-settimeout-setinterval-and-requestanimationframe)**
+11. **[JavaScript Engines](#١١-javascript-engines)**
+12. **[Bitwise Operators, Type Arrays and Array Buffers](#١٢-bitwise-operators-type-arrays-and-array-buffers)**
+13. **[DOM and Layout Trees](#١٣-dom-and-layout-trees)**
+14. **[Factories and Classes](#١٤-factories-and-classes)**
+15. **[this, call, apply and bind](#١٥-this-call-apply-and-bind)**
+16. **[new, Constructor, instanceof and Instances](#١٦-new-constructor-instanceof-and-instances)**
+17. **[Prototype Inheritance and Prototype Chain](#١٧-prototype-inheritance-and-prototype-chain)**
+18. **[Object.create and Object.assign](#١٨-objectcreate-and-objectassign)**
+19. **[map, reduce, filter](#١٩-map-reduce-filter)**
+20. **[Pure Functions, Side Effects and State Mutation](#٢٠-pure-functions-side-effects-and-state-mutation)**
+21. **[Closures](#٢١-closures)**
+22. **[High Order Functions](#٢٢-high-order-functions)**
+23. **[Recursion](#٢٣-recursion)**
+24. **[Collections and Generators](#٢٤-collections-and-generators)**
+25. **[Promises](#٢٥-promises)**
+26. **[async/await](#٢٦-asyncawait)**
+27. **[Data Structures](#٢٧-data-structures)**
+28. **[Expensive Operation and Big O Notation](#٢٨-expensive-operation-and-big-o-notation)**
+29. **[الخوارزميات](#٢٩-الخوارزميات)**
+30. **[Inheritance, Polymorphism and Code Reuse](#٣٠-inheritance-polymorphism-and-code-reuse)**
+31. **[Design Patterns](#٣١-design-patterns)**
+32. **[Partial Applications, Currying, Compose and Pipe](#٣٢-partial-applications-currying-compose-and-pipe)**
+33. **[كتابة كود نظيف](#٣٣-كتابة-كود-نظيف)**
 
 ---
 
