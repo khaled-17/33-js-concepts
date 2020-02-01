@@ -50,6 +50,8 @@ It is based on an article written by [Stephen Curtis](https://twitter.com/stephe
 
 ---
 
+<div dir="rtl" lang="ar">
+
 ## جدول المحتويات
 
 ١. **[Call Stack](#١-call-stack)**
@@ -86,6 +88,7 @@ It is based on an article written by [Stephen Curtis](https://twitter.com/stephe
 ٣٢. **[Partial Applications, Currying, Compose and Pipe](#٣٢-partial-applications-currying-compose-and-pipe)**
 ٣٣. **[كتابة كود نظيف](#٣٣-كتابة-كود-نظيف)**
 
+</div>
 
 ---
 
